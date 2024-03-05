@@ -11,4 +11,4 @@
 This script is based on the [uTP implementation in Java by iiljkic](https://github.com/iiljkic/utp4j).
 
 ## Notice
-This is an experimental script and provides vary basic parsing of the utp4j protocol. It is not guaranteed to work in all cases and might not be able to parse all packets. It is recommended to use this script for testing and debugging purposes only. Feel free to improve it.
+This is an experimental script and provides very basic parsing of the utp4j protocol. It is not guaranteed to work in all cases and might not be able to parse all packets. It is recommended to use this script for testing and debugging purposes only. Feel free to improve it.
